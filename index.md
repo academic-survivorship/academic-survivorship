@@ -1,1 +1,2 @@
-# Welcome to the IB 305: Thriving in Academia course website! 
+# Welcome 
+Welcome to the IB 305: Thriving in Academia course website! 
