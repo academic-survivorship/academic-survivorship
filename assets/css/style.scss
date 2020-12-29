@@ -323,3 +323,69 @@ footer {
   }
 }
 
+@media print, screen and (max-width: 480px) {
+  body {
+  }
+
+  header{
+    position: relative;
+    padding: 5px 0px;
+    min-height: 0px;
+
+    h1 {
+      font-size: 24px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      -o-text-overflow: ellipsis;
+      -ms-text-overflow: ellipsis;
+    }
+  }
+  section {
+    margin-top: 5px;
+  }
+
+}
+
+@media print {
+  body {
+    padding:0.4in;
+    font-size:12pt;
+    color:#444;
+  }
+}
+
+@media print, screen and (max-height: 680px) {
+
+  footer {
+    text-align: center;
+    margin: 20px auto;
+    position: relative;
+    left:auto;
+    bottom:auto;
+    width:auto;
+  }
+}
+
+@media print, screen and (max-height: 480px) {
+
+
+  footer {
+    text-align: center;
+    margin: 20px auto;
+    position: relative;
+    left:auto;
+    bottom:auto;
+    width:auto;
+  }
+}
+
+img.one {
+  height: auto;
+  width: auto;
+}
+
+img.two {
+  height: 50%;
+  width: 50%;
+}
