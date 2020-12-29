@@ -6,6 +6,16 @@
 .page-header{
 color:#003262;
 background-color:#C4820E;
+
+#logo {
+    position:absolute;
+    height: 36px;
+    width: 36px;
+    right:7px;
+    top:7px;
+    display: block;
+    background: url('../../images/UCBerkeley_wordmark_white.png') no-repeat;
+  }
 }
 
 header {
@@ -22,16 +32,6 @@ header {
   z-index:99;
   -webkit-font-smoothing:antialiased;
   min-height: 76px;
-  
-  #logo {
-    position:absolute;
-    height: 36px;
-    width: 36px;
-    right:7px;
-    top:7px;
-    display: block;
-    background: url('../../images/UCBerkeley_wordmark_white.png') no-repeat;
-  }
 
   h1 {
     font: 40px/48px 'Copse', "Helvetica Neue", Helvetica, Arial, sans-serif;
