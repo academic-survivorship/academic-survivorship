@@ -1,5 +1,8 @@
 <div class="mobileShow"> 
-test</div>
+<a href="https://thrivinginacademia.github.io/grantwriting/">Home</a>
+<a href="https://thrivinginacademia.github.io/grantwriting/">Grant Writing</a>
+<a href="https://thrivinginacademia.github.io/resources/">Course Resources</a>
+</div>
 
 # Welcome 
 Welcome to the IB 305: Thriving in Academia course website! 
