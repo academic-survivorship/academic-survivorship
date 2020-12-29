@@ -1,11 +1,11 @@
 <div class="mobileShow"> 
-<a href="https://thrivinginacademia.github.io/grantwriting/">Home</a> 
+<b><a href="https://thrivinginacademia.github.io/grantwriting/">Home</a> 
 <br>
 <a href="https://thrivinginacademia.github.io/grantwriting/">Grant Writing</a>
 <br>
 <a href="https://thrivinginacademia.github.io/resources/">Course Resources</a>
 <br>
-Note: this website is not optimized for mobile screens. For the best experience, view in landscape mode or on a computer. 
+Note: this website is not optimized for mobile screens. For the best experience, view in landscape mode or on a computer. </b>
 </div>
 
 # Welcome 
