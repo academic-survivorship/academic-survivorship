@@ -278,6 +278,8 @@ footer {
     }
 }
 
+
+
 @media print, screen and (max-width: 720px) {
   body {
     word-wrap:break-word;
@@ -340,6 +342,17 @@ footer {
       -o-text-overflow: ellipsis;
       -ms-text-overflow: ellipsis;
     }
+    #banner {
+    top: 80px;
+
+    .fork {
+      float: left;
+      display: inline-block;
+      margin-left: 0px;
+    position:fixed;
+    left:20px;
+
+      }
   }
   section {
     margin-top: 5px;
