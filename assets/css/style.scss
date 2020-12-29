@@ -5,7 +5,7 @@
 
 .page-header{
 color:#003262;
-background: url('../../images/UCBerkeley_wordmark_white.png') no-repeat;
+background-color:#C4820E;
 }
 
 header {
@@ -40,6 +40,16 @@ header {
     text-shadow:rgba(#000, 0.2) 0 1px 0;
     font-size: 18px;
     margin: 0px;
+  }
+
+#logo {
+    position:absolute;
+    height: 36px;
+    width: 36px;
+    right:7px;
+    top:7px;
+    display: block;
+    background: url('../../images/UCBerkeley_wordmark_white.png') no-repeat;
   }
 }
 
