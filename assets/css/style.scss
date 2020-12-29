@@ -371,7 +371,12 @@ footer {
   }
 }
 
-img {
-	max-width: 100%;
-	max-height: 100%;
+img.one {
+  height: auto;
+  width: auto;
+}
+
+img.two {
+  height: 50%;
+  width: 50%;
 }
