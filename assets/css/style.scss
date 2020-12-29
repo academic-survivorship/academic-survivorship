@@ -4,6 +4,8 @@
 @import "{{ site.theme }}";
 
 .page-header{
+color:#003262;
+background-color:#C4820E;
 }
 
 header {
@@ -15,6 +17,7 @@ header {
   right:0;
   width: 100%;
   text-align: center;
+  background: #003262;
   box-shadow: 1px 0px 2px rgba(0,0,0,.75);
   z-index:99;
   -webkit-font-smoothing:antialiased;
@@ -45,7 +48,7 @@ header {
     left:5px;
     top:5px;
     display: block;
-    background: url('../../images/UCBerkeley_wordmark_white.png') no-repeat;
+    background: url('../../images/IB_Icon_White.svg') no-repeat;
   }
 }
 
