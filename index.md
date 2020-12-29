@@ -2,6 +2,7 @@
 <a href="https://thrivinginacademia.github.io/grantwriting/">Home</a>
 <a href="https://thrivinginacademia.github.io/grantwriting/">Grant Writing</a>
 <a href="https://thrivinginacademia.github.io/resources/">Course Resources</a>
+Note: this website is not optimized for mobile screens. For the best experience, view in landscape mode or on a computer. 
 </div>
 
 # Welcome 
