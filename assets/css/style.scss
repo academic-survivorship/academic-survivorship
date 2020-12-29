@@ -22,6 +22,16 @@ header {
   z-index:99;
   -webkit-font-smoothing:antialiased;
   min-height: 76px;
+  
+  #logo {
+    position:absolute;
+    height: 36px;
+    width: 36px;
+    right:7px;
+    top:7px;
+    display: block;
+    background: url('../../images/UCBerkeley_wordmark_white.png') no-repeat;
+  }
 
   h1 {
     font: 40px/48px 'Copse', "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -40,16 +50,6 @@ header {
     text-shadow:rgba(#000, 0.2) 0 1px 0;
     font-size: 18px;
     margin: 0px;
-  }
-  
-#logo {
-    position:absolute;
-    height: 36px;
-    width: 36px;
-    right:7px;
-    top:7px;
-    display: block;
-    background: url('../../images/UCBerkeley_wordmark_white.png') no-repeat;
   }
 }
 
